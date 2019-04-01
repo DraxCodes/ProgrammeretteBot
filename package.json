@@ -2,7 +2,7 @@
   "name": "programmerette",
   "version": "1.0.0",
   "description": "A discord.Js Discord Bot.",
-  "main": "bot.js",
+  "main": "./src/bot.js",
   "author": "Drax Codes",
   "license": "MIT",
   "dependencies": {
